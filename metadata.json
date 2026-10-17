@@ -1,0 +1,6 @@
+{
+  "name": "Khairul POS SaaS",
+  "description": "Multi-Tenant Commercial POS SaaS Platform with Company Isolation, Fast Touch Cashier Workflow, and Receipt Generation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
